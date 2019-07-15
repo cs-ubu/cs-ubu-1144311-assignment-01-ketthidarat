@@ -18,5 +18,3 @@ def matmul(A,b):
                 C[r][0] = sum([ A[c][j]*b[j][c] for j in range(J) ])
         return C
     return[]
-
-# 4.print C

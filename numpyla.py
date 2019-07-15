@@ -11,5 +11,5 @@ print(np.dot(A, b))
 #linalg.inv(A)
 #linalg.det(A)
 #linalg.solve(A, b)
-
+#
 
